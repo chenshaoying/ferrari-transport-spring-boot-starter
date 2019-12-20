@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=cn.darren.ferrari.transport.config.FerrariTransportNettyServerAuthConfiguration
